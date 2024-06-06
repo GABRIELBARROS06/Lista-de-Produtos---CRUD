@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "nome": "Coxinha",
+      "preco": "8",
+      "imagem": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg",
+      "descricao": "Coxinha deliciosa",
+      "quantidade": "1",
+      "id": "KY1BlKJ"
+    },
+    {
+      "nome": "Quibe",
+      "preco": "10",
+      "imagem": "https://t3.ftcdn.net/jpg/04/17/01/14/360_F_417011475_MlP43f6ZXUdFiRhPcVriD48B0CFFc21p.jpg",
+      "descricao": "Quibe delicioso",
+      "quantidade": "10",
+      "id": "g86wKFF"
+    },
+    {
+      "nome": "Risole",
+      "preco": "5",
+      "imagem": "https://loja.paglias.com.br/wp-content/uploads/2020/09/paglias-risole-presunto-e-queijo-full.jpg",
+      "descricao": "Risole delicioso",
+      "quantidade": "2",
+      "id": "9OdJbgD"
+    },
+    {
+      "nome": "Bolinho de Carne",
+      "preco": "10",
+      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2021/05/14/1462730788-bolinho-mandioca-carne-moida-768x512.jpg",
+      "descricao": "Bolinho de carne seca delicioso",
+      "quantidade": "30",
+      "id": "vLEjz-e"
+    },
+    {
+      "nome": "teste",
+      "preco": "13",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/35._ISC-Symposium-Ratan_N._Tata_in_der_Pause-HSGN_028-01812.JPG",
+      "descricao": "Risole delicioso",
+      "quantidade": "1",
+      "id": "XqJDZGS"
+    }
+  ]
+}
